@@ -2,7 +2,7 @@
   background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/books1.jpg");
   background-size: cover;
   background-attachment: fixed;
-  height: 70vh;
+  height: 100vh;
 }
 .nav-link{
   color:#fff;
