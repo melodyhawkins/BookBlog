@@ -1,0 +1,61 @@
+.container-fluid{
+  background-size: cover;
+  background-attachment: fixed;
+  width: 90em;
+  height: 70vh;
+  margin-left: 5em;
+}
+.nav-link{
+  color:#fff;
+  background-color: #ff00ff;
+}
+.nav-link:hover{
+  color:#ff00ff;
+  background-color:#555;
+}
+.title{
+  color: #ff00ff;
+  font-family: "Pacifico";
+  font-size: 4rem;
+  margin-top: -1.25em;
+  display: flex;
+}
+.one{
+  max-width: 100%;
+  height: auto;
+  margin-top: 4em;
+  margin-bottom: 1em;
+  margin-left: 5em;
+}
+.storyintro{
+  font-family: "Roboto";
+  font-size: 1em;
+  color: #555;
+  margin-top: 1.75em;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+.storybody{
+  font-family: "Roboto";
+  font-size: 1em;
+  color: #555;
+  margin-top: 1em;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+p{
+  color:#ff00ff;
+  font-family: "Pacifico";
+  font-size: 1rem;
+}
+.subtitle{
+  color: #555;
+  font-family: "Pacifico";
+  text-align: right;
+  margin-top: 0em;
+  
+}
+.icon{
+  color:#555;
+  font-size: 2em;
+}

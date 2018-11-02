@@ -1,0 +1,29 @@
+.container{
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/books1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  height: 70vh;
+}
+.nav-link{
+  color:#fff;
+  background-color: #ff00ff;
+}
+.nav-link:hover{
+  color:#ff00ff;
+  background-color:#555;
+}
+.title{
+  color: #ff00ff;
+  font-family: "Pacifico";
+  font-size: 4rem;
+  margin-top: 3.5em;
+}
+p{
+  color:#ff00ff;
+  font-family: "Pacifico";
+  font-size: 1rem;
+}
+.icon{
+  color:#555;
+  font-size: 2em;
+}
